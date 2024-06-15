@@ -2,3 +2,4 @@ gitの練習するお
 基本的なワークフローを学ぶお
 git add
 git commit
+git rm
